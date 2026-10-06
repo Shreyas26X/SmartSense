@@ -1,0 +1,181 @@
+Customer_ID,Customer_Name,Email,Product,Quantity,Price_Per_Item,Total_Price,Purchase_Date,Season
+2024,Neha,neha2024@gmail.com,Consultation,1,128,128,2025-02-25,Winter
+2005,David,david2005@gmail.com,Consultation,3,136,408,2025-07-14,Summer
+2019,Ravi,ravi2019@gmail.com,X-Ray,2,758,1516,2026-02-27,Winter
+2004,Karan,karan2004@gmail.com,Blood Test,3,104,312,2025-12-01,Winter
+2003,Alex,alex2003@gmail.com,X-Ray,2,622,1244,2025-09-26,Autumn
+2020,Karan,karan2020@gmail.com,X-Ray,3,442,1326,2025-12-17,Winter
+2025,Aryan,aryan2025@gmail.com,Medicine,3,1247,3741,2026-01-19,Winter
+2010,David,david2010@gmail.com,Consultation,2,874,1748,2025-08-02,Summer
+2029,Priya,priya2029@gmail.com,Consultation,1,1367,1367,2025-08-23,Summer
+2002,Sara,sara2002@gmail.com,Blood Test,2,926,1852,2026-02-11,Winter
+2029,Anita,anita2029@gmail.com,Blood Test,1,994,994,2024-12-14,Winter
+2005,Rahul,rahul2005@gmail.com,X-Ray,1,1164,1164,2025-01-19,Winter
+2019,John,john2019@gmail.com,Blood Test,1,593,593,2025-04-04,Spring
+2013,Michael,michael2013@gmail.com,Medicine,2,1430,2860,2024-12-17,Winter
+2019,David,david2019@gmail.com,Medicine,2,142,284,2025-09-21,Autumn
+2002,John,john2002@gmail.com,Consultation,3,641,1923,2024-11-30,Autumn
+2012,David,david2012@gmail.com,Consultation,2,1366,2732,2025-05-22,Spring
+2000,Sara,sara2000@gmail.com,Consultation,3,1496,4488,2025-11-05,Autumn
+2018,Ravi,ravi2018@gmail.com,Blood Test,3,286,858,2026-02-15,Winter
+2015,Sneha,sneha2015@gmail.com,Consultation,3,450,1350,2025-11-03,Autumn
+2019,Anita,anita2019@gmail.com,Medicine,1,444,444,2026-02-02,Winter
+2030,Rahul,rahul2030@gmail.com,Blood Test,3,805,2415,2025-02-21,Winter
+2021,Aryan,aryan2021@gmail.com,X-Ray,2,720,1440,2025-04-19,Spring
+2000,Alex,alex2000@gmail.com,X-Ray,1,133,133,2025-02-28,Winter
+2024,John,john2024@gmail.com,X-Ray,3,1177,3531,2025-06-18,Summer
+2014,Sneha,sneha2014@gmail.com,Medicine,3,632,1896,2024-10-20,Autumn
+2027,Pooja,pooja2027@gmail.com,X-Ray,3,1401,4203,2025-11-23,Autumn
+2024,Amit,amit2024@gmail.com,Medicine,2,1064,2128,2025-01-02,Winter
+2022,Rahul,rahul2022@gmail.com,Medicine,3,533,1599,2025-07-02,Summer
+2004,Priya,priya2004@gmail.com,Consultation,3,348,1044,2025-08-08,Summer
+2016,David,david2016@gmail.com,X-Ray,2,1277,2554,2025-08-20,Summer
+2029,Amit,amit2029@gmail.com,X-Ray,3,848,2544,2025-04-21,Spring
+2021,Sara,sara2021@gmail.com,Blood Test,1,820,820,2025-09-04,Autumn
+2016,Pooja,pooja2016@gmail.com,X-Ray,3,1362,4086,2025-12-17,Winter
+2029,Anita,anita2029@gmail.com,Blood Test,1,864,864,2025-01-31,Winter
+2019,Anita,anita2019@gmail.com,Blood Test,2,1050,2100,2025-02-26,Winter
+2010,Sneha,sneha2010@gmail.com,Consultation,2,267,534,2025-08-08,Summer
+2010,Priya,priya2010@gmail.com,X-Ray,2,968,1936,2024-12-01,Winter
+2002,Neha,neha2002@gmail.com,X-Ray,3,1324,3972,2025-07-30,Summer
+2014,Aryan,aryan2014@gmail.com,X-Ray,2,756,1512,2025-09-17,Autumn
+2000,Sneha,sneha2000@gmail.com,Consultation,2,1081,2162,2024-11-20,Autumn
+2014,Priya,priya2014@gmail.com,Consultation,2,654,1308,2024-12-07,Winter
+2028,Neha,neha2028@gmail.com,Consultation,3,907,2721,2025-02-10,Winter
+2016,David,david2016@gmail.com,Blood Test,1,1029,1029,2025-06-05,Summer
+2006,Alex,alex2006@gmail.com,Medicine,2,1466,2932,2026-02-05,Winter
+2010,John,john2010@gmail.com,Blood Test,1,1389,1389,2025-12-29,Winter
+2006,David,david2006@gmail.com,Consultation,3,1232,3696,2026-02-06,Winter
+2002,John,john2002@gmail.com,X-Ray,3,681,2043,2025-05-05,Spring
+2000,Rahul,rahul2000@gmail.com,Consultation,3,492,1476,2025-08-13,Summer
+2030,Anita,anita2030@gmail.com,Blood Test,2,996,1992,2024-12-19,Winter
+2030,Karan,karan2030@gmail.com,Consultation,1,528,528,2025-01-22,Winter
+2014,John,john2014@gmail.com,X-Ray,1,161,161,2025-02-11,Winter
+2015,Alex,alex2015@gmail.com,Consultation,2,1099,2198,2026-02-09,Winter
+2027,Anita,anita2027@gmail.com,X-Ray,3,434,1302,2025-01-27,Winter
+2007,Pooja,pooja2007@gmail.com,X-Ray,1,245,245,2025-11-18,Autumn
+2005,Neha,neha2005@gmail.com,X-Ray,1,1290,1290,2024-11-10,Autumn
+2011,John,john2011@gmail.com,Consultation,2,1316,2632,2025-07-16,Summer
+2014,Neha,neha2014@gmail.com,Medicine,3,1160,3480,2026-01-29,Winter
+2004,Aryan,aryan2004@gmail.com,Consultation,3,1382,4146,2026-02-06,Winter
+2019,Anita,anita2019@gmail.com,Consultation,2,1334,2668,2024-10-24,Autumn
+2001,Neha,neha2001@gmail.com,Medicine,3,1110,3330,2025-11-18,Autumn
+2008,Anita,anita2008@gmail.com,X-Ray,1,1353,1353,2025-07-07,Summer
+2016,Aryan,aryan2016@gmail.com,Medicine,1,1142,1142,2025-04-27,Spring
+2014,Rahul,rahul2014@gmail.com,X-Ray,1,1105,1105,2024-11-22,Autumn
+2020,Ravi,ravi2020@gmail.com,X-Ray,2,867,1734,2026-03-06,Spring
+2018,Alex,alex2018@gmail.com,Blood Test,2,645,1290,2025-11-14,Autumn
+2022,Alex,alex2022@gmail.com,Consultation,3,567,1701,2025-06-11,Summer
+2029,Michael,michael2029@gmail.com,Blood Test,2,931,1862,2026-03-08,Spring
+2021,David,david2021@gmail.com,Medicine,1,595,595,2024-11-08,Autumn
+2002,Alex,alex2002@gmail.com,Consultation,2,356,712,2025-01-04,Winter
+2001,Aryan,aryan2001@gmail.com,Medicine,3,1098,3294,2025-05-21,Spring
+2000,Sara,sara2000@gmail.com,Consultation,1,1314,1314,2025-02-25,Winter
+2024,Aryan,aryan2024@gmail.com,Blood Test,1,597,597,2026-03-05,Spring
+2017,Aryan,aryan2017@gmail.com,Consultation,3,742,2226,2025-05-20,Spring
+2020,Karan,karan2020@gmail.com,X-Ray,2,899,1798,2024-12-18,Winter
+2015,Michael,michael2015@gmail.com,Consultation,1,403,403,2026-01-13,Winter
+2007,Ravi,ravi2007@gmail.com,Medicine,1,1264,1264,2024-10-01,Autumn
+2009,Rahul,rahul2009@gmail.com,Medicine,1,452,452,2026-01-24,Winter
+2021,Neha,neha2021@gmail.com,Blood Test,2,581,1162,2026-03-17,Spring
+2012,John,john2012@gmail.com,Consultation,1,523,523,2026-03-07,Spring
+2004,Alex,alex2004@gmail.com,Blood Test,2,829,1658,2025-05-21,Spring
+2011,John,john2011@gmail.com,Consultation,2,502,1004,2025-08-24,Summer
+2030,John,john2030@gmail.com,Consultation,2,407,814,2025-07-29,Summer
+2005,Michael,michael2005@gmail.com,X-Ray,2,935,1870,2025-12-04,Winter
+2027,Amit,amit2027@gmail.com,X-Ray,1,1117,1117,2024-11-16,Autumn
+2003,Pooja,pooja2003@gmail.com,X-Ray,3,348,1044,2025-03-04,Spring
+2012,Michael,michael2012@gmail.com,Blood Test,1,1394,1394,2026-03-24,Spring
+2011,Pooja,pooja2011@gmail.com,Medicine,3,1433,4299,2026-02-07,Winter
+2007,Amit,amit2007@gmail.com,Medicine,3,886,2658,2025-07-12,Summer
+2027,Alex,alex2027@gmail.com,Medicine,1,1188,1188,2024-10-13,Autumn
+2003,Karan,karan2003@gmail.com,X-Ray,3,839,2517,2026-01-15,Winter
+2023,Sneha,sneha2023@gmail.com,Medicine,2,970,1940,2026-03-24,Spring
+2010,Michael,michael2010@gmail.com,X-Ray,2,1264,2528,2026-03-17,Spring
+2006,Sara,sara2006@gmail.com,Medicine,3,1030,3090,2025-04-17,Spring
+2015,Aryan,aryan2015@gmail.com,Medicine,1,374,374,2025-03-14,Spring
+2015,Sara,sara2015@gmail.com,Medicine,2,1380,2760,2025-09-09,Autumn
+2002,Sneha,sneha2002@gmail.com,X-Ray,1,446,446,2025-12-09,Winter
+2021,Amit,amit2021@gmail.com,X-Ray,1,1219,1219,2026-03-12,Spring
+2025,Ravi,ravi2025@gmail.com,Consultation,2,239,478,2025-09-27,Autumn
+2009,Rahul,rahul2009@gmail.com,Consultation,2,806,1612,2025-07-01,Summer
+2011,Karan,karan2011@gmail.com,X-Ray,2,901,1802,2025-08-24,Summer
+2003,Michael,michael2003@gmail.com,Blood Test,2,367,734,2025-03-27,Spring
+2015,Karan,karan2015@gmail.com,Blood Test,1,643,643,2025-10-31,Autumn
+2013,Sara,sara2013@gmail.com,Blood Test,2,1304,2608,2025-04-20,Spring
+2010,Rahul,rahul2010@gmail.com,X-Ray,1,916,916,2025-11-27,Autumn
+2006,Ravi,ravi2006@gmail.com,Medicine,1,891,891,2024-11-28,Autumn
+2016,Amit,amit2016@gmail.com,Consultation,1,617,617,2025-03-08,Spring
+2019,Neha,neha2019@gmail.com,Consultation,3,287,861,2024-11-29,Autumn
+2021,Ravi,ravi2021@gmail.com,Consultation,2,1141,2282,2025-04-28,Spring
+2004,Aryan,aryan2004@gmail.com,Consultation,3,733,2199,2026-01-14,Winter
+2028,David,david2028@gmail.com,Consultation,1,687,687,2025-06-20,Summer
+2006,Anita,anita2006@gmail.com,X-Ray,1,1269,1269,2026-01-23,Winter
+2011,Aryan,aryan2011@gmail.com,X-Ray,1,978,978,2025-03-23,Spring
+2005,Sara,sara2005@gmail.com,Blood Test,1,1451,1451,2025-05-27,Spring
+2022,Rahul,rahul2022@gmail.com,Medicine,2,1168,2336,2025-01-02,Winter
+2024,Priya,priya2024@gmail.com,Medicine,2,973,1946,2025-10-29,Autumn
+2016,John,john2016@gmail.com,X-Ray,2,170,340,2024-11-30,Autumn
+2009,Alex,alex2009@gmail.com,Blood Test,2,1309,2618,2025-04-19,Spring
+2018,Alex,alex2018@gmail.com,Medicine,2,341,682,2025-09-18,Autumn
+2030,Anita,anita2030@gmail.com,Medicine,2,1055,2110,2025-10-23,Autumn
+2018,Michael,michael2018@gmail.com,Consultation,2,439,878,2025-03-31,Spring
+2026,Karan,karan2026@gmail.com,Medicine,1,233,233,2025-08-14,Summer
+2002,David,david2002@gmail.com,Medicine,2,224,448,2025-02-13,Winter
+2028,Aryan,aryan2028@gmail.com,Medicine,1,675,675,2024-11-04,Autumn
+2006,Sara,sara2006@gmail.com,Blood Test,2,858,1716,2024-10-27,Autumn
+2027,Aryan,aryan2027@gmail.com,Blood Test,1,432,432,2025-08-29,Summer
+2011,Aryan,aryan2011@gmail.com,X-Ray,1,1058,1058,2025-06-15,Summer
+2003,Alex,alex2003@gmail.com,Medicine,3,374,1122,2025-05-26,Spring
+2018,Sneha,sneha2018@gmail.com,Medicine,2,195,390,2025-02-28,Winter
+2029,Neha,neha2029@gmail.com,Consultation,3,637,1911,2024-11-20,Autumn
+2009,Aryan,aryan2009@gmail.com,Medicine,2,1372,2744,2025-11-05,Autumn
+2029,Aryan,aryan2029@gmail.com,Blood Test,3,360,1080,2025-01-20,Winter
+2017,Sara,sara2017@gmail.com,Consultation,2,637,1274,2026-02-23,Winter
+2000,Karan,karan2000@gmail.com,Medicine,1,463,463,2025-08-15,Summer
+2006,Pooja,pooja2006@gmail.com,Blood Test,1,1266,1266,2025-09-11,Autumn
+2002,Neha,neha2002@gmail.com,X-Ray,2,753,1506,2024-10-12,Autumn
+2012,Michael,michael2012@gmail.com,Blood Test,2,564,1128,2025-11-26,Autumn
+2015,Sneha,sneha2015@gmail.com,Medicine,2,1060,2120,2025-09-30,Autumn
+2006,Anita,anita2006@gmail.com,X-Ray,1,274,274,2024-10-14,Autumn
+2003,Karan,karan2003@gmail.com,Blood Test,3,528,1584,2025-05-04,Spring
+2011,Pooja,pooja2011@gmail.com,X-Ray,3,1466,4398,2025-11-28,Autumn
+2026,Aryan,aryan2026@gmail.com,Consultation,1,1256,1256,2025-02-26,Winter
+2013,Anita,anita2013@gmail.com,Blood Test,1,580,580,2026-01-01,Winter
+2006,Neha,neha2006@gmail.com,Medicine,1,468,468,2025-01-16,Winter
+2019,Aryan,aryan2019@gmail.com,X-Ray,3,581,1743,2025-06-15,Summer
+2019,David,david2019@gmail.com,Consultation,2,994,1988,2024-12-06,Winter
+2011,Michael,michael2011@gmail.com,X-Ray,1,463,463,2026-02-09,Winter
+2001,Amit,amit2001@gmail.com,Consultation,1,1014,1014,2025-10-05,Autumn
+2020,Neha,neha2020@gmail.com,Consultation,3,1247,3741,2024-12-18,Winter
+2011,David,david2011@gmail.com,Consultation,1,1163,1163,2026-02-01,Winter
+2025,Priya,priya2025@gmail.com,Blood Test,3,273,819,2025-05-16,Spring
+2000,Ravi,ravi2000@gmail.com,X-Ray,1,434,434,2025-11-25,Autumn
+2001,John,john2001@gmail.com,Consultation,3,629,1887,2025-06-17,Summer
+2007,Karan,karan2007@gmail.com,Medicine,2,317,634,2025-11-30,Autumn
+2003,Aryan,aryan2003@gmail.com,Consultation,3,1199,3597,2025-11-13,Autumn
+2015,Sneha,sneha2015@gmail.com,X-Ray,1,108,108,2025-01-23,Winter
+2012,Rahul,rahul2012@gmail.com,Medicine,3,371,1113,2024-10-30,Autumn
+2013,Pooja,pooja2013@gmail.com,Consultation,1,751,751,2024-10-04,Autumn
+2003,Neha,neha2003@gmail.com,Blood Test,3,379,1137,2025-06-05,Summer
+2012,Priya,priya2012@gmail.com,X-Ray,2,1238,2476,2024-10-08,Autumn
+2012,Aryan,aryan2012@gmail.com,Blood Test,3,1023,3069,2024-10-28,Autumn
+2024,Amit,amit2024@gmail.com,Blood Test,1,1243,1243,2025-11-23,Autumn
+2004,Amit,amit2004@gmail.com,Consultation,1,1254,1254,2026-03-01,Spring
+2021,Sara,sara2021@gmail.com,X-Ray,3,1459,4377,2025-05-29,Spring
+2011,Neha,neha2011@gmail.com,Blood Test,1,1176,1176,2025-01-10,Winter
+2029,John,john2029@gmail.com,X-Ray,1,264,264,2025-08-20,Summer
+2006,Sara,sara2006@gmail.com,X-Ray,1,364,364,2025-11-27,Autumn
+2013,Neha,neha2013@gmail.com,X-Ray,1,711,711,2026-02-16,Winter
+2012,David,david2012@gmail.com,X-Ray,2,1442,2884,2025-07-08,Summer
+2026,Michael,michael2026@gmail.com,Medicine,2,879,1758,2025-03-10,Spring
+2026,Sara,sara2026@gmail.com,Blood Test,1,899,899,2025-07-31,Summer
+2002,Neha,neha2002@gmail.com,Consultation,3,247,741,2025-08-04,Summer
+2030,Anita,anita2030@gmail.com,X-Ray,1,1007,1007,2025-11-24,Autumn
+2000,Neha,neha2000@gmail.com,X-Ray,1,1418,1418,2025-12-04,Winter
+2008,Sneha,sneha2008@gmail.com,Consultation,1,880,880,2025-05-21,Spring
+2001,Rahul,rahul2001@gmail.com,Medicine,3,588,1764,2025-05-16,Spring
+2012,Michael,michael2012@gmail.com,Consultation,2,587,1174,2026-02-28,Winter
+2030,Karan,karan2030@gmail.com,Blood Test,3,1105,3315,2025-02-26,Winter
+2029,Aryan,aryan2029@gmail.com,Blood Test,2,1250,2500,2025-05-18,Spring
+2014,Ravi,ravi2014@gmail.com,Consultation,1,560,560,2026-03-11,Spring

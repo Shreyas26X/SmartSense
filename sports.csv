@@ -1,0 +1,181 @@
+Customer_ID,Customer_Name,Email,Product,Quantity,Price_Per_Item,Total_Price,Purchase_Date,Season
+1013,Alex,alex1013@gmail.com,Football Jersey,3,299,897,2025-12-18,Winter
+1026,Ravi,ravi1026@gmail.com,Scarf,3,466,1398,2026-02-03,Winter
+1006,Neha,neha1006@gmail.com,Shoes,5,224,1120,2024-10-12,Autumn
+1029,Sara,sara1029@gmail.com,Shoes,5,175,875,2024-10-11,Autumn
+1019,Ravi,ravi1019@gmail.com,Football Jersey,4,95,380,2025-03-13,Spring
+1009,Sara,sara1009@gmail.com,Football Jersey,3,86,258,2026-02-23,Winter
+1021,Michael,michael1021@gmail.com,Football Jersey,1,350,350,2024-11-25,Autumn
+1008,Priya,priya1008@gmail.com,Football Jersey,5,406,2030,2025-05-01,Spring
+1014,Alex,alex1014@gmail.com,Scarf,4,399,1596,2024-11-04,Autumn
+1001,Amit,amit1001@gmail.com,Match Ticket,1,454,454,2024-11-24,Autumn
+1014,Pooja,pooja1014@gmail.com,Shoes,5,178,890,2025-11-21,Autumn
+1003,Amit,amit1003@gmail.com,Match Ticket,4,287,1148,2025-09-04,Autumn
+1008,David,david1008@gmail.com,Shoes,3,127,381,2026-01-08,Winter
+1017,Ravi,ravi1017@gmail.com,Football Jersey,4,474,1896,2025-08-13,Summer
+1019,Amit,amit1019@gmail.com,Scarf,1,494,494,2024-11-22,Autumn
+1015,Amit,amit1015@gmail.com,Shoes,2,331,662,2025-08-19,Summer
+1006,Aryan,aryan1006@gmail.com,Match Ticket,3,291,873,2025-01-11,Winter
+1013,Michael,michael1013@gmail.com,Match Ticket,5,322,1610,2026-03-18,Spring
+1019,Amit,amit1019@gmail.com,Shoes,2,367,734,2025-09-30,Autumn
+1017,Sara,sara1017@gmail.com,Scarf,1,435,435,2026-02-08,Winter
+1017,Michael,michael1017@gmail.com,Match Ticket,5,172,860,2025-03-18,Spring
+1014,Sneha,sneha1014@gmail.com,Shoes,2,312,624,2025-03-17,Spring
+1015,John,john1015@gmail.com,Football Jersey,4,455,1820,2026-03-03,Spring
+1011,David,david1011@gmail.com,Football Jersey,4,422,1688,2025-02-06,Winter
+1016,Sara,sara1016@gmail.com,Shoes,2,186,372,2025-04-23,Spring
+1026,Pooja,pooja1026@gmail.com,Scarf,4,343,1372,2025-03-19,Spring
+1001,Karan,karan1001@gmail.com,Scarf,4,220,880,2026-01-27,Winter
+1014,Priya,priya1014@gmail.com,Football Jersey,2,155,310,2025-03-17,Spring
+1003,Anita,anita1003@gmail.com,Match Ticket,2,98,196,2025-05-03,Spring
+1013,David,david1013@gmail.com,Shoes,1,384,384,2025-05-13,Spring
+1010,Karan,karan1010@gmail.com,Match Ticket,5,371,1855,2025-03-28,Spring
+1001,Amit,amit1001@gmail.com,Match Ticket,5,416,2080,2025-01-20,Winter
+1015,Ravi,ravi1015@gmail.com,Football Jersey,1,491,491,2025-09-08,Autumn
+1003,Anita,anita1003@gmail.com,Match Ticket,2,485,970,2025-02-14,Winter
+1008,Karan,karan1008@gmail.com,Shoes,4,427,1708,2025-08-30,Summer
+1010,Priya,priya1010@gmail.com,Scarf,1,459,459,2024-11-06,Autumn
+1004,Alex,alex1004@gmail.com,Match Ticket,1,476,476,2025-09-06,Autumn
+1018,Sara,sara1018@gmail.com,Match Ticket,1,458,458,2025-03-04,Spring
+1018,Aryan,aryan1018@gmail.com,Shoes,2,468,936,2025-10-20,Autumn
+1005,David,david1005@gmail.com,Football Jersey,1,159,159,2025-04-29,Spring
+1029,Neha,neha1029@gmail.com,Football Jersey,5,204,1020,2025-08-17,Summer
+1016,John,john1016@gmail.com,Match Ticket,3,192,576,2025-02-11,Winter
+1011,Michael,michael1011@gmail.com,Football Jersey,3,185,555,2025-05-25,Spring
+1020,Aryan,aryan1020@gmail.com,Scarf,4,419,1676,2024-11-16,Autumn
+1000,Alex,alex1000@gmail.com,Scarf,5,120,600,2025-06-19,Summer
+1016,Amit,amit1016@gmail.com,Match Ticket,2,485,970,2025-05-07,Spring
+1015,Sara,sara1015@gmail.com,Shoes,3,353,1059,2025-12-21,Winter
+1001,Priya,priya1001@gmail.com,Football Jersey,2,122,244,2025-11-14,Autumn
+1015,Michael,michael1015@gmail.com,Match Ticket,1,107,107,2026-01-24,Winter
+1012,Rahul,rahul1012@gmail.com,Football Jersey,1,151,151,2025-10-22,Autumn
+1004,Michael,michael1004@gmail.com,Match Ticket,1,497,497,2025-12-04,Winter
+1020,Ravi,ravi1020@gmail.com,Scarf,1,108,108,2025-06-15,Summer
+1014,Sneha,sneha1014@gmail.com,Match Ticket,2,284,568,2025-02-13,Winter
+1005,David,david1005@gmail.com,Match Ticket,2,205,410,2025-03-09,Spring
+1006,Sneha,sneha1006@gmail.com,Shoes,3,117,351,2025-02-03,Winter
+1002,Priya,priya1002@gmail.com,Football Jersey,5,320,1600,2025-09-18,Autumn
+1002,David,david1002@gmail.com,Football Jersey,2,456,912,2026-01-24,Winter
+1002,John,john1002@gmail.com,Shoes,5,95,475,2024-10-27,Autumn
+1014,Pooja,pooja1014@gmail.com,Football Jersey,4,483,1932,2026-01-16,Winter
+1026,David,david1026@gmail.com,Match Ticket,3,237,711,2024-12-10,Winter
+1005,Alex,alex1005@gmail.com,Scarf,4,332,1328,2026-02-05,Winter
+1025,Karan,karan1025@gmail.com,Football Jersey,3,367,1101,2025-09-18,Autumn
+1027,Neha,neha1027@gmail.com,Football Jersey,1,165,165,2025-02-25,Winter
+1024,John,john1024@gmail.com,Scarf,1,226,226,2025-04-29,Spring
+1025,Sara,sara1025@gmail.com,Scarf,1,231,231,2025-02-09,Winter
+1003,Aryan,aryan1003@gmail.com,Match Ticket,3,144,432,2025-06-15,Summer
+1000,Priya,priya1000@gmail.com,Shoes,5,208,1040,2025-04-24,Spring
+1019,Aryan,aryan1019@gmail.com,Scarf,4,296,1184,2025-02-01,Winter
+1018,Sneha,sneha1018@gmail.com,Scarf,5,203,1015,2026-02-04,Winter
+1018,Sara,sara1018@gmail.com,Scarf,4,351,1404,2025-11-30,Autumn
+1024,Sara,sara1024@gmail.com,Shoes,4,305,1220,2025-03-02,Spring
+1028,Karan,karan1028@gmail.com,Scarf,4,151,604,2025-04-17,Spring
+1007,Ravi,ravi1007@gmail.com,Scarf,4,205,820,2026-01-28,Winter
+1002,David,david1002@gmail.com,Scarf,3,315,945,2025-06-25,Summer
+1012,Ravi,ravi1012@gmail.com,Football Jersey,1,368,368,2025-11-01,Autumn
+1000,Amit,amit1000@gmail.com,Match Ticket,5,195,975,2026-03-17,Spring
+1012,Alex,alex1012@gmail.com,Scarf,1,276,276,2025-07-29,Summer
+1007,John,john1007@gmail.com,Scarf,4,363,1452,2025-12-14,Winter
+1024,Sneha,sneha1024@gmail.com,Football Jersey,2,209,418,2025-01-05,Winter
+1018,Amit,amit1018@gmail.com,Match Ticket,1,220,220,2025-08-05,Summer
+1016,Ravi,ravi1016@gmail.com,Shoes,1,492,492,2024-10-06,Autumn
+1030,Michael,michael1030@gmail.com,Match Ticket,3,458,1374,2025-08-22,Summer
+1029,Sara,sara1029@gmail.com,Shoes,5,82,410,2025-06-05,Summer
+1005,Anita,anita1005@gmail.com,Scarf,1,411,411,2026-02-27,Winter
+1004,John,john1004@gmail.com,Shoes,5,176,880,2025-06-12,Summer
+1029,Alex,alex1029@gmail.com,Match Ticket,3,180,540,2025-01-27,Winter
+1014,Alex,alex1014@gmail.com,Match Ticket,4,449,1796,2024-12-31,Winter
+1006,Sneha,sneha1006@gmail.com,Scarf,1,205,205,2025-04-16,Spring
+1013,Pooja,pooja1013@gmail.com,Match Ticket,4,149,596,2024-11-08,Autumn
+1002,Sara,sara1002@gmail.com,Scarf,2,403,806,2025-10-19,Autumn
+1007,Amit,amit1007@gmail.com,Shoes,1,398,398,2025-06-25,Summer
+1013,Michael,michael1013@gmail.com,Football Jersey,5,359,1795,2025-11-29,Autumn
+1004,Anita,anita1004@gmail.com,Scarf,4,81,324,2025-02-26,Winter
+1007,Alex,alex1007@gmail.com,Match Ticket,2,168,336,2025-07-12,Summer
+1025,Sara,sara1025@gmail.com,Football Jersey,5,404,2020,2025-09-10,Autumn
+1020,Sneha,sneha1020@gmail.com,Scarf,5,298,1490,2024-10-13,Autumn
+1024,Neha,neha1024@gmail.com,Football Jersey,4,426,1704,2025-10-26,Autumn
+1003,Sneha,sneha1003@gmail.com,Shoes,4,479,1916,2024-10-30,Autumn
+1024,Alex,alex1024@gmail.com,Match Ticket,4,454,1816,2025-06-24,Summer
+1021,Michael,michael1021@gmail.com,Scarf,1,421,421,2026-03-05,Spring
+1028,Sneha,sneha1028@gmail.com,Football Jersey,3,199,597,2025-08-16,Summer
+1025,Amit,amit1025@gmail.com,Football Jersey,4,427,1708,2025-06-24,Summer
+1005,Priya,priya1005@gmail.com,Match Ticket,3,417,1251,2025-08-10,Summer
+1026,Sneha,sneha1026@gmail.com,Football Jersey,1,474,474,2026-01-17,Winter
+1030,Rahul,rahul1030@gmail.com,Football Jersey,4,292,1168,2025-12-07,Winter
+1008,Priya,priya1008@gmail.com,Match Ticket,1,443,443,2025-04-17,Spring
+1016,Karan,karan1016@gmail.com,Match Ticket,5,179,895,2025-02-07,Winter
+1024,Anita,anita1024@gmail.com,Match Ticket,2,446,892,2024-10-08,Autumn
+1010,Neha,neha1010@gmail.com,Football Jersey,1,297,297,2025-04-24,Spring
+1018,Neha,neha1018@gmail.com,Football Jersey,5,392,1960,2024-12-13,Winter
+1027,Sneha,sneha1027@gmail.com,Scarf,4,328,1312,2025-03-11,Spring
+1023,Neha,neha1023@gmail.com,Football Jersey,5,313,1565,2025-07-12,Summer
+1008,John,john1008@gmail.com,Match Ticket,5,334,1670,2026-01-04,Winter
+1001,Pooja,pooja1001@gmail.com,Shoes,5,213,1065,2025-10-14,Autumn
+1016,Priya,priya1016@gmail.com,Scarf,3,485,1455,2025-12-04,Winter
+1018,Sneha,sneha1018@gmail.com,Shoes,1,236,236,2025-11-11,Autumn
+1023,Michael,michael1023@gmail.com,Scarf,2,244,488,2025-06-09,Summer
+1019,Priya,priya1019@gmail.com,Match Ticket,4,281,1124,2026-03-30,Spring
+1013,Rahul,rahul1013@gmail.com,Scarf,5,146,730,2026-03-07,Spring
+1002,David,david1002@gmail.com,Football Jersey,1,360,360,2025-06-02,Summer
+1024,Anita,anita1024@gmail.com,Scarf,3,214,642,2024-11-16,Autumn
+1000,Priya,priya1000@gmail.com,Shoes,5,335,1675,2025-01-28,Winter
+1007,Neha,neha1007@gmail.com,Scarf,5,340,1700,2025-05-31,Spring
+1016,Priya,priya1016@gmail.com,Scarf,2,321,642,2026-01-28,Winter
+1005,Amit,amit1005@gmail.com,Football Jersey,2,436,872,2026-02-15,Winter
+1008,Sara,sara1008@gmail.com,Shoes,2,119,238,2025-08-07,Summer
+1016,David,david1016@gmail.com,Match Ticket,3,378,1134,2025-12-26,Winter
+1021,Amit,amit1021@gmail.com,Football Jersey,5,344,1720,2025-11-25,Autumn
+1003,Karan,karan1003@gmail.com,Scarf,2,259,518,2025-03-24,Spring
+1018,Amit,amit1018@gmail.com,Football Jersey,4,363,1452,2025-11-11,Autumn
+1021,Rahul,rahul1021@gmail.com,Shoes,5,104,520,2026-03-31,Spring
+1012,Neha,neha1012@gmail.com,Scarf,5,371,1855,2025-04-11,Spring
+1004,Pooja,pooja1004@gmail.com,Scarf,3,460,1380,2025-02-20,Winter
+1025,Alex,alex1025@gmail.com,Shoes,1,277,277,2025-01-22,Winter
+1011,Pooja,pooja1011@gmail.com,Scarf,2,447,894,2025-11-15,Autumn
+1013,Pooja,pooja1013@gmail.com,Football Jersey,5,329,1645,2026-03-27,Spring
+1022,Pooja,pooja1022@gmail.com,Shoes,5,499,2495,2026-02-10,Winter
+1010,Amit,amit1010@gmail.com,Football Jersey,5,383,1915,2025-02-26,Winter
+1011,Priya,priya1011@gmail.com,Football Jersey,4,151,604,2024-10-03,Autumn
+1001,David,david1001@gmail.com,Shoes,2,297,594,2025-07-25,Summer
+1014,Michael,michael1014@gmail.com,Scarf,2,494,988,2025-08-13,Summer
+1017,Sara,sara1017@gmail.com,Football Jersey,4,164,656,2025-10-22,Autumn
+1003,John,john1003@gmail.com,Scarf,4,397,1588,2025-03-09,Spring
+1013,Anita,anita1013@gmail.com,Scarf,5,183,915,2025-08-23,Summer
+1018,Amit,amit1018@gmail.com,Match Ticket,1,493,493,2026-03-10,Spring
+1019,Sneha,sneha1019@gmail.com,Football Jersey,2,350,700,2025-05-27,Spring
+1004,Alex,alex1004@gmail.com,Football Jersey,4,442,1768,2026-03-18,Spring
+1026,Anita,anita1026@gmail.com,Match Ticket,4,241,964,2025-03-03,Spring
+1006,Karan,karan1006@gmail.com,Scarf,4,113,452,2026-03-10,Spring
+1008,David,david1008@gmail.com,Scarf,2,299,598,2025-12-20,Winter
+1025,Alex,alex1025@gmail.com,Scarf,2,81,162,2024-12-12,Winter
+1012,Anita,anita1012@gmail.com,Match Ticket,4,219,876,2026-02-16,Winter
+1012,Sneha,sneha1012@gmail.com,Match Ticket,4,107,428,2026-03-22,Spring
+1021,Anita,anita1021@gmail.com,Shoes,2,465,930,2024-12-16,Winter
+1017,Alex,alex1017@gmail.com,Match Ticket,5,445,2225,2024-10-22,Autumn
+1001,Anita,anita1001@gmail.com,Shoes,4,201,804,2026-01-22,Winter
+1006,Sneha,sneha1006@gmail.com,Scarf,2,227,454,2025-08-19,Summer
+1022,David,david1022@gmail.com,Shoes,2,195,390,2024-10-09,Autumn
+1014,Rahul,rahul1014@gmail.com,Football Jersey,4,294,1176,2024-12-13,Winter
+1024,Amit,amit1024@gmail.com,Scarf,1,231,231,2025-12-02,Winter
+1013,Pooja,pooja1013@gmail.com,Shoes,3,211,633,2025-08-16,Summer
+1014,Michael,michael1014@gmail.com,Football Jersey,5,282,1410,2025-04-02,Spring
+1011,Sara,sara1011@gmail.com,Football Jersey,5,476,2380,2025-02-27,Winter
+1026,Neha,neha1026@gmail.com,Shoes,1,262,262,2025-05-01,Spring
+1020,Michael,michael1020@gmail.com,Football Jersey,2,255,510,2024-12-11,Winter
+1020,Rahul,rahul1020@gmail.com,Match Ticket,3,364,1092,2025-05-28,Spring
+1003,Priya,priya1003@gmail.com,Football Jersey,1,286,286,2024-10-01,Autumn
+1012,Aryan,aryan1012@gmail.com,Football Jersey,5,350,1750,2025-05-11,Spring
+1017,Pooja,pooja1017@gmail.com,Scarf,3,148,444,2025-08-15,Summer
+1027,Anita,anita1027@gmail.com,Football Jersey,4,190,760,2025-11-13,Autumn
+1015,Pooja,pooja1015@gmail.com,Match Ticket,3,248,744,2025-09-27,Autumn
+1022,Amit,amit1022@gmail.com,Football Jersey,4,485,1940,2024-10-26,Autumn
+1015,David,david1015@gmail.com,Scarf,5,336,1680,2026-01-21,Winter
+1027,David,david1027@gmail.com,Football Jersey,1,402,402,2024-12-14,Winter
+1015,Anita,anita1015@gmail.com,Shoes,2,144,288,2025-04-29,Spring
+1023,Alex,alex1023@gmail.com,Shoes,1,399,399,2026-03-20,Spring
+1014,Amit,amit1014@gmail.com,Scarf,4,215,860,2025-03-10,Spring
+1011,Michael,michael1011@gmail.com,Shoes,5,377,1885,2024-12-15,Winter
+1001,David,david1001@gmail.com,Scarf,4,298,1192,2025-12-06,Winter
+1017,Sneha,sneha1017@gmail.com,Scarf,1,132,132,2026-01-26,Winter

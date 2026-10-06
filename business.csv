@@ -1,0 +1,181 @@
+Customer_ID,Customer_Name,Email,Product,Quantity,Price_Per_Item,Total_Price,Purchase_Date,Season
+3029,Priya,priya3029@gmail.com,Stationery,10,261,2610,2025-11-06,Autumn
+3026,Rahul,rahul3026@gmail.com,Printer,7,628,4396,2025-10-17,Autumn
+3030,John,john3030@gmail.com,Stationery,2,474,948,2025-09-02,Autumn
+3022,Karan,karan3022@gmail.com,Laptop,14,222,3108,2024-10-14,Autumn
+3003,Anita,anita3003@gmail.com,Office Chair,9,639,5751,2024-10-12,Autumn
+3025,Amit,amit3025@gmail.com,Stationery,5,601,3005,2026-02-11,Winter
+3008,Michael,michael3008@gmail.com,Printer,15,599,8985,2025-07-11,Summer
+3021,Alex,alex3021@gmail.com,Stationery,10,536,5360,2025-11-11,Autumn
+3010,Ravi,ravi3010@gmail.com,Stationery,7,110,770,2025-08-05,Summer
+3024,David,david3024@gmail.com,Stationery,11,708,7788,2026-03-03,Spring
+3014,Neha,neha3014@gmail.com,Laptop,15,319,4785,2025-06-05,Summer
+3017,Aryan,aryan3017@gmail.com,Office Chair,9,234,2106,2025-12-12,Winter
+3005,Aryan,aryan3005@gmail.com,Laptop,6,558,3348,2025-06-24,Summer
+3010,Alex,alex3010@gmail.com,Laptop,11,88,968,2025-02-26,Winter
+3030,Priya,priya3030@gmail.com,Stationery,14,376,5264,2025-01-17,Winter
+3003,Michael,michael3003@gmail.com,Office Chair,10,495,4950,2025-03-12,Spring
+3002,Karan,karan3002@gmail.com,Office Chair,15,252,3780,2025-05-28,Spring
+3024,Karan,karan3024@gmail.com,Laptop,10,278,2780,2026-01-23,Winter
+3015,Ravi,ravi3015@gmail.com,Printer,3,70,210,2025-05-31,Spring
+3010,Priya,priya3010@gmail.com,Stationery,7,470,3290,2025-12-25,Winter
+3029,Alex,alex3029@gmail.com,Office Chair,10,269,2690,2025-02-16,Winter
+3000,Sneha,sneha3000@gmail.com,Printer,6,428,2568,2025-08-07,Summer
+3010,Aryan,aryan3010@gmail.com,Office Chair,2,179,358,2025-08-03,Summer
+3025,John,john3025@gmail.com,Stationery,14,709,9926,2025-02-14,Winter
+3026,Karan,karan3026@gmail.com,Stationery,5,68,340,2025-07-05,Summer
+3010,Priya,priya3010@gmail.com,Printer,11,471,5181,2026-03-15,Spring
+3008,Karan,karan3008@gmail.com,Stationery,2,266,532,2025-12-01,Winter
+3011,Sneha,sneha3011@gmail.com,Laptop,15,65,975,2026-01-16,Winter
+3021,Amit,amit3021@gmail.com,Printer,15,481,7215,2026-03-24,Spring
+3010,Pooja,pooja3010@gmail.com,Office Chair,15,753,11295,2025-05-18,Spring
+3030,David,david3030@gmail.com,Stationery,12,354,4248,2025-08-21,Summer
+3022,David,david3022@gmail.com,Printer,6,776,4656,2025-07-15,Summer
+3007,Ravi,ravi3007@gmail.com,Stationery,4,110,440,2024-12-22,Winter
+3016,Priya,priya3016@gmail.com,Stationery,8,745,5960,2025-01-01,Winter
+3026,Alex,alex3026@gmail.com,Printer,2,452,904,2025-05-18,Spring
+3024,Anita,anita3024@gmail.com,Office Chair,10,252,2520,2025-01-12,Winter
+3012,David,david3012@gmail.com,Office Chair,4,569,2276,2024-10-14,Autumn
+3015,Michael,michael3015@gmail.com,Office Chair,7,229,1603,2025-05-29,Spring
+3005,Sara,sara3005@gmail.com,Laptop,5,220,1100,2025-07-02,Summer
+3027,Michael,michael3027@gmail.com,Laptop,2,297,594,2025-05-21,Spring
+3028,Rahul,rahul3028@gmail.com,Stationery,13,232,3016,2026-02-16,Winter
+3010,Sara,sara3010@gmail.com,Printer,14,364,5096,2024-10-24,Autumn
+3029,Michael,michael3029@gmail.com,Printer,3,694,2082,2025-09-15,Autumn
+3011,Alex,alex3011@gmail.com,Stationery,8,444,3552,2025-08-16,Summer
+3014,Neha,neha3014@gmail.com,Stationery,14,379,5306,2025-10-25,Autumn
+3012,Sara,sara3012@gmail.com,Stationery,2,302,604,2026-02-13,Winter
+3020,John,john3020@gmail.com,Office Chair,12,560,6720,2025-11-12,Autumn
+3017,David,david3017@gmail.com,Stationery,5,266,1330,2025-10-28,Autumn
+3000,Rahul,rahul3000@gmail.com,Laptop,4,419,1676,2025-09-03,Autumn
+3014,Priya,priya3014@gmail.com,Office Chair,4,318,1272,2025-01-21,Winter
+3001,Rahul,rahul3001@gmail.com,Printer,15,621,9315,2025-06-29,Summer
+3027,Rahul,rahul3027@gmail.com,Printer,13,481,6253,2024-12-23,Winter
+3009,Sneha,sneha3009@gmail.com,Laptop,14,795,11130,2025-11-19,Autumn
+3003,Rahul,rahul3003@gmail.com,Stationery,11,381,4191,2025-08-04,Summer
+3005,Sara,sara3005@gmail.com,Stationery,14,518,7252,2025-04-10,Spring
+3021,Ravi,ravi3021@gmail.com,Printer,11,554,6094,2024-11-04,Autumn
+3025,Michael,michael3025@gmail.com,Laptop,7,327,2289,2024-10-28,Autumn
+3005,Ravi,ravi3005@gmail.com,Printer,9,555,4995,2025-02-25,Winter
+3009,Anita,anita3009@gmail.com,Office Chair,12,310,3720,2024-11-22,Autumn
+3008,Ravi,ravi3008@gmail.com,Office Chair,13,761,9893,2025-10-06,Autumn
+3002,Sneha,sneha3002@gmail.com,Printer,4,573,2292,2024-12-25,Winter
+3012,Priya,priya3012@gmail.com,Printer,10,62,620,2025-12-12,Winter
+3025,Michael,michael3025@gmail.com,Stationery,4,724,2896,2025-07-21,Summer
+3023,Sneha,sneha3023@gmail.com,Laptop,3,640,1920,2026-01-02,Winter
+3009,John,john3009@gmail.com,Office Chair,9,331,2979,2026-02-08,Winter
+3024,Amit,amit3024@gmail.com,Office Chair,7,435,3045,2025-01-15,Winter
+3001,Amit,amit3001@gmail.com,Printer,12,432,5184,2025-07-23,Summer
+3010,Pooja,pooja3010@gmail.com,Printer,6,684,4104,2026-03-02,Spring
+3020,David,david3020@gmail.com,Stationery,8,435,3480,2025-05-25,Spring
+3006,Pooja,pooja3006@gmail.com,Stationery,7,74,518,2025-09-15,Autumn
+3005,Aryan,aryan3005@gmail.com,Stationery,5,465,2325,2025-12-23,Winter
+3017,Karan,karan3017@gmail.com,Stationery,14,367,5138,2025-04-23,Spring
+3030,Ravi,ravi3030@gmail.com,Laptop,10,416,4160,2025-08-31,Summer
+3003,Priya,priya3003@gmail.com,Office Chair,14,112,1568,2024-12-12,Winter
+3005,Priya,priya3005@gmail.com,Stationery,7,366,2562,2024-10-10,Autumn
+3030,Sara,sara3030@gmail.com,Printer,10,186,1860,2025-12-07,Winter
+3002,Neha,neha3002@gmail.com,Office Chair,15,285,4275,2025-07-30,Summer
+3021,Sneha,sneha3021@gmail.com,Office Chair,15,444,6660,2026-02-28,Winter
+3015,John,john3015@gmail.com,Office Chair,9,497,4473,2026-03-07,Spring
+3030,Priya,priya3030@gmail.com,Office Chair,12,280,3360,2026-01-03,Winter
+3013,Ravi,ravi3013@gmail.com,Laptop,15,90,1350,2024-10-24,Autumn
+3002,Ravi,ravi3002@gmail.com,Printer,2,399,798,2025-07-11,Summer
+3021,Pooja,pooja3021@gmail.com,Stationery,15,262,3930,2025-03-02,Spring
+3020,Neha,neha3020@gmail.com,Office Chair,13,104,1352,2025-04-27,Spring
+3015,Sneha,sneha3015@gmail.com,Printer,10,632,6320,2026-01-11,Winter
+3004,Sara,sara3004@gmail.com,Office Chair,6,287,1722,2025-04-27,Spring
+3004,Aryan,aryan3004@gmail.com,Laptop,7,414,2898,2025-07-09,Summer
+3000,Michael,michael3000@gmail.com,Laptop,13,428,5564,2025-03-14,Spring
+3017,Neha,neha3017@gmail.com,Stationery,2,467,934,2025-05-28,Spring
+3022,Anita,anita3022@gmail.com,Office Chair,4,298,1192,2025-12-21,Winter
+3021,Priya,priya3021@gmail.com,Laptop,10,168,1680,2025-05-20,Spring
+3022,Anita,anita3022@gmail.com,Printer,8,700,5600,2025-09-29,Autumn
+3001,David,david3001@gmail.com,Office Chair,4,460,1840,2025-01-10,Winter
+3024,Anita,anita3024@gmail.com,Office Chair,4,61,244,2025-07-25,Summer
+3008,Neha,neha3008@gmail.com,Printer,15,271,4065,2025-09-29,Autumn
+3016,David,david3016@gmail.com,Office Chair,12,357,4284,2025-05-01,Spring
+3012,John,john3012@gmail.com,Laptop,8,593,4744,2025-02-09,Winter
+3013,Sara,sara3013@gmail.com,Laptop,14,92,1288,2025-03-22,Spring
+3009,Amit,amit3009@gmail.com,Stationery,10,500,5000,2024-11-05,Autumn
+3003,Aryan,aryan3003@gmail.com,Laptop,3,405,1215,2026-01-24,Winter
+3016,Rahul,rahul3016@gmail.com,Stationery,7,76,532,2025-04-29,Spring
+3017,Neha,neha3017@gmail.com,Printer,8,439,3512,2024-12-04,Winter
+3007,Sara,sara3007@gmail.com,Stationery,13,94,1222,2024-10-29,Autumn
+3007,Aryan,aryan3007@gmail.com,Stationery,8,556,4448,2025-05-08,Spring
+3029,Priya,priya3029@gmail.com,Stationery,2,700,1400,2025-05-05,Spring
+3025,Sara,sara3025@gmail.com,Stationery,15,60,900,2026-02-23,Winter
+3027,Alex,alex3027@gmail.com,Printer,9,649,5841,2025-08-07,Summer
+3001,Amit,amit3001@gmail.com,Stationery,7,573,4011,2026-03-12,Spring
+3018,Rahul,rahul3018@gmail.com,Laptop,6,509,3054,2026-03-17,Spring
+3002,Neha,neha3002@gmail.com,Laptop,12,303,3636,2025-12-15,Winter
+3011,Michael,michael3011@gmail.com,Printer,4,228,912,2026-02-26,Winter
+3010,Rahul,rahul3010@gmail.com,Stationery,7,625,4375,2025-09-28,Autumn
+3013,Priya,priya3013@gmail.com,Office Chair,8,56,448,2026-02-25,Winter
+3005,Amit,amit3005@gmail.com,Laptop,7,66,462,2026-03-03,Spring
+3021,Sara,sara3021@gmail.com,Stationery,3,186,558,2025-07-07,Summer
+3001,Rahul,rahul3001@gmail.com,Office Chair,2,65,130,2025-08-01,Summer
+3030,Aryan,aryan3030@gmail.com,Stationery,6,581,3486,2025-09-03,Autumn
+3009,Sara,sara3009@gmail.com,Laptop,15,461,6915,2026-03-09,Spring
+3016,Amit,amit3016@gmail.com,Printer,7,665,4655,2025-11-28,Autumn
+3011,Alex,alex3011@gmail.com,Office Chair,6,362,2172,2026-01-12,Winter
+3002,David,david3002@gmail.com,Office Chair,7,551,3857,2025-03-30,Spring
+3024,Priya,priya3024@gmail.com,Laptop,9,342,3078,2024-11-28,Autumn
+3013,Michael,michael3013@gmail.com,Laptop,6,523,3138,2025-11-30,Autumn
+3014,Michael,michael3014@gmail.com,Printer,2,513,1026,2024-10-13,Autumn
+3018,Amit,amit3018@gmail.com,Laptop,15,687,10305,2025-12-26,Winter
+3028,Michael,michael3028@gmail.com,Laptop,4,737,2948,2025-05-27,Spring
+3004,Sneha,sneha3004@gmail.com,Printer,2,111,222,2026-01-13,Winter
+3013,Anita,anita3013@gmail.com,Printer,4,793,3172,2025-07-14,Summer
+3000,Michael,michael3000@gmail.com,Printer,6,197,1182,2025-08-05,Summer
+3007,Ravi,ravi3007@gmail.com,Laptop,4,88,352,2024-10-15,Autumn
+3013,Neha,neha3013@gmail.com,Office Chair,2,211,422,2025-07-08,Summer
+3024,Ravi,ravi3024@gmail.com,Laptop,14,552,7728,2025-04-15,Spring
+3008,Neha,neha3008@gmail.com,Office Chair,9,737,6633,2025-09-30,Autumn
+3015,Michael,michael3015@gmail.com,Stationery,8,686,5488,2025-03-31,Spring
+3018,Pooja,pooja3018@gmail.com,Printer,6,542,3252,2026-01-25,Winter
+3022,Sara,sara3022@gmail.com,Laptop,15,476,7140,2025-11-30,Autumn
+3027,Priya,priya3027@gmail.com,Office Chair,2,250,500,2025-06-25,Summer
+3030,Amit,amit3030@gmail.com,Stationery,2,435,870,2024-11-14,Autumn
+3029,Sneha,sneha3029@gmail.com,Office Chair,6,724,4344,2025-10-01,Autumn
+3020,Karan,karan3020@gmail.com,Stationery,13,322,4186,2025-02-15,Winter
+3014,Neha,neha3014@gmail.com,Laptop,15,113,1695,2026-01-13,Winter
+3023,Ravi,ravi3023@gmail.com,Stationery,7,663,4641,2025-01-30,Winter
+3030,Sneha,sneha3030@gmail.com,Stationery,9,305,2745,2025-08-21,Summer
+3009,Neha,neha3009@gmail.com,Office Chair,3,545,1635,2024-12-28,Winter
+3003,David,david3003@gmail.com,Printer,9,317,2853,2026-02-19,Winter
+3028,Pooja,pooja3028@gmail.com,Stationery,9,54,486,2026-01-19,Winter
+3009,Amit,amit3009@gmail.com,Office Chair,14,304,4256,2024-12-21,Winter
+3026,Neha,neha3026@gmail.com,Stationery,14,55,770,2024-10-10,Autumn
+3025,Ravi,ravi3025@gmail.com,Stationery,2,289,578,2026-03-06,Spring
+3010,Anita,anita3010@gmail.com,Stationery,4,261,1044,2025-10-21,Autumn
+3001,Karan,karan3001@gmail.com,Office Chair,7,66,462,2026-01-23,Winter
+3029,Alex,alex3029@gmail.com,Laptop,7,195,1365,2025-09-03,Autumn
+3017,Alex,alex3017@gmail.com,Printer,8,480,3840,2025-08-30,Summer
+3011,Aryan,aryan3011@gmail.com,Laptop,6,162,972,2025-11-24,Autumn
+3030,Priya,priya3030@gmail.com,Laptop,3,607,1821,2026-02-23,Winter
+3021,Michael,michael3021@gmail.com,Printer,5,616,3080,2025-02-17,Winter
+3023,Rahul,rahul3023@gmail.com,Laptop,4,230,920,2024-10-20,Autumn
+3014,Aryan,aryan3014@gmail.com,Laptop,5,114,570,2025-01-26,Winter
+3020,Pooja,pooja3020@gmail.com,Stationery,6,759,4554,2025-04-27,Spring
+3023,Pooja,pooja3023@gmail.com,Office Chair,7,318,2226,2025-08-19,Summer
+3017,Rahul,rahul3017@gmail.com,Stationery,5,53,265,2025-11-28,Autumn
+3027,Amit,amit3027@gmail.com,Stationery,3,705,2115,2025-05-21,Spring
+3021,Sara,sara3021@gmail.com,Laptop,4,563,2252,2025-01-30,Winter
+3003,Ravi,ravi3003@gmail.com,Printer,13,169,2197,2025-07-29,Summer
+3025,Alex,alex3025@gmail.com,Laptop,13,473,6149,2025-09-09,Autumn
+3022,Karan,karan3022@gmail.com,Office Chair,8,123,984,2025-05-07,Spring
+3014,Priya,priya3014@gmail.com,Office Chair,6,305,1830,2026-02-07,Winter
+3025,Amit,amit3025@gmail.com,Office Chair,15,416,6240,2026-02-26,Winter
+3007,Alex,alex3007@gmail.com,Stationery,9,542,4878,2025-06-17,Summer
+3028,Sneha,sneha3028@gmail.com,Printer,9,396,3564,2024-11-08,Autumn
+3001,Neha,neha3001@gmail.com,Stationery,5,170,850,2025-09-20,Autumn
+3024,Pooja,pooja3024@gmail.com,Laptop,13,274,3562,2025-08-09,Summer
+3016,John,john3016@gmail.com,Printer,15,620,9300,2025-12-21,Winter
+3019,Aryan,aryan3019@gmail.com,Stationery,3,238,714,2025-01-13,Winter
+3023,Karan,karan3023@gmail.com,Printer,8,354,2832,2025-08-23,Summer
+3010,Aryan,aryan3010@gmail.com,Office Chair,13,328,4264,2025-06-13,Summer
+3029,Alex,alex3029@gmail.com,Office Chair,4,220,880,2025-02-26,Winter
+3000,Ravi,ravi3000@gmail.com,Printer,14,348,4872,2025-10-17,Autumn
+3024,Karan,karan3024@gmail.com,Stationery,7,255,1785,2024-10-30,Autumn
+3004,Rahul,rahul3004@gmail.com,Laptop,14,112,1568,2024-10-15,Autumn
