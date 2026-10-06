@@ -158,7 +158,7 @@ SmartSense/
 └── README.md
 ```
 
-> The exact file structure may vary depending on the version of the project uploaded to the repository.
+
 
 ---
 
@@ -267,12 +267,11 @@ Add a screenshot of the generated customer segments here.
 
 ## Project Team
 
-This project was developed collaboratively.
+
 
 | Name | Role |
 |---|---|
 | Shreyas Indap | Project Member |
-| Harsh Kanchan | Project Member |
 
 ---
 
@@ -288,7 +287,7 @@ This project was developed collaboratively.
 
 **Academic Year:** 2026–27
 
-**Subject:** AI & DS II / Recent Open Source Project Lab (ROSPL)
+**Subject:** AI & DS II 
 
 **Guide:** Prof. Tejal Ranch
 
@@ -311,11 +310,6 @@ The project can be further improved by:
 
 ---
 
-## License
-
-This project is an academic mini project developed for educational purposes.
-
----
 
 ## Repository
 
